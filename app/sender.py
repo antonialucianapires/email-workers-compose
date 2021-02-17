@@ -1,6 +1,7 @@
 import psycopg2
 import redis
 import json
+import os
 from bottle import Bottle, request
 
 
